@@ -1,0 +1,2 @@
+Désolée, il y a pleins de choses qui ne fonctionne pas... Entre la prog Unity et l'Epic Digital Day j'ai beaucoup remis à demain le javascript :/
+Si tu corriges samedi ou après, j'aurais essayé de corriger les soucis et mis à jour mon github, mais je comprendrais que tu corriges uniquement cette version.
