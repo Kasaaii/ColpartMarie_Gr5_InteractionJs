@@ -81,3 +81,23 @@ swiper-slide img {
     max-width: 500px;
     height: auto;
 }
+
+@media only screen and (max-width: 600px) {
+    .burger-menu {
+        display: block;
+    }
+
+    .nav-menu {
+        display: none;
+        flex-direction: column;
+        position: absolute;
+        top: 60px;
+        left: 0;
+        background-color: #333;
+        width: 100%;
+    }
+
+    .nav-menu.show {
+        display: flex;
+    }
+}
